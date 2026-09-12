@@ -1,0 +1,39 @@
+{
+  "generated_at": "2026-09-12",
+  "version": "0.1.0",
+  "disclaimer": "数据来源于各省教育考试院、阳光高考平台及各高校招生网公开信息，仅供志愿填报辅助参考，非商用。最终以官方公布为准。",
+  "coverage": {
+    "score_rank": {
+      "rows": 726,
+      "years": {
+        "2025": 295,
+        "2024": 200,
+        "2023": 231
+      }
+    },
+    "admissions_school": {
+      "schools": 635,
+      "with_data": 635,
+      "pct_with_data": 100.0
+    },
+    "subject_requirements_2027": {
+      "records": 51211,
+      "schools": 1241
+    },
+    "schools": {
+      "total": 1241,
+      "with_tier": 1241
+    },
+    "dupes": {
+      "score_rank": 0,
+      "subject": 0
+    }
+  },
+  "sources": {
+    "score_rank": "北京教育考试院一分一段表 2023-2025 物理类",
+    "admissions_school": "北京教育考试院本科普通批投档线 2023-2025",
+    "subject_requirements_2027": "教育部/考试院 2027通用版选考科目要求(适用2027+) sdzk.cn",
+    "schools": "2027选科要求文件院校清单 + 院校层次标签(公开名录)"
+  },
+  "issues": []
+}
