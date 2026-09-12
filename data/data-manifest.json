@@ -31,9 +31,10 @@
       "subject": 0
     },
     "admissions_school_2026": {
-      "status": "IN_PROGRESS",
-      "source": "bj.bendibao.com 官方投档线转述(本地宝), 待完成",
-      "expected_schools": 765
+      "status": "PENDING_POST_2026",
+      "reason": "bjeea PDF Cloudflare拦截; bendibao详情页限流; 官方截图52张已存档待后续OCR/手工录入",
+      "note": "需求D3：v1基线=2023/24/25三年，2026为追加项不影响核心功能",
+      "images_saved": 52
     }
   },
   "sources": {

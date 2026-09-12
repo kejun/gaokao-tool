@@ -1,1 +1,16 @@
 FAIL 424 大连海事大学
+progress 100/765 ok=0 658s
+progress 200/765 ok=0 1395s
+FAIL 415 沈阳工业大学
+FAIL 2188 重庆交通大学
+FAIL 2574 西安工业大学
+progress 300/765 ok=0 2179s
+FAIL 429 大连海洋大学
+progress 400/765 ok=0 2742s
+progress 500/765 ok=0 3625s
+progress 600/765 ok=0 4068s
+FAIL 1692 武昌理工学院
+progress 700/765 ok=0 4647s
+FAIL 1275 南昌交通学院
+FAIL 1534 郑州警察学院
+DONE 0/765 5422s
