@@ -1,0 +1,12716 @@
+[
+{
+"school_id": "10001",
+"name": "北京大学",
+"province": "北京",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10002",
+"name": "中国人民大学",
+"province": "北京",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10003",
+"name": "清华大学",
+"province": "北京",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10004",
+"name": "北京交通大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10005",
+"name": "北京工业大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10006",
+"name": "北京航空航天大学",
+"province": "北京",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10007",
+"name": "北京理工大学",
+"province": "北京",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10008",
+"name": "北京科技大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10009",
+"name": "北方工业大学",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10010",
+"name": "北京化工大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10011",
+"name": "北京工商大学",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10012",
+"name": "北京服装学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10013",
+"name": "北京邮电大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10015",
+"name": "北京印刷学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10016",
+"name": "北京建筑大学",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10017",
+"name": "北京石油化工学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10018",
+"name": "北京电子科技学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10019",
+"name": "中国农业大学",
+"province": "北京",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10020",
+"name": "北京农学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10022",
+"name": "北京林业大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10023",
+"name": "北京协和医学院",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10025",
+"name": "首都医科大学",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10026",
+"name": "北京中医药大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10027",
+"name": "北京师范大学",
+"province": "北京",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10028",
+"name": "首都师范大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10029",
+"name": "首都体育学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10030",
+"name": "北京外国语大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10031",
+"name": "北京第二外国语学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10032",
+"name": "北京语言大学",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10033",
+"name": "中国传媒大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10034",
+"name": "中央财经大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10036",
+"name": "对外经济贸易大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10037",
+"name": "北京物资学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10038",
+"name": "首都经济贸易大学",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10039",
+"name": "中国消防救援学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10040",
+"name": "外交学院",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10041",
+"name": "中国人民公安大学",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10042",
+"name": "国际关系学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10043",
+"name": "北京体育大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10045",
+"name": "中央音乐学院",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10046",
+"name": "中国音乐学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10047",
+"name": "中央美术学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10048",
+"name": "中央戏剧学院",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10049",
+"name": "中国戏曲学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10050",
+"name": "北京电影学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10051",
+"name": "北京舞蹈学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10052",
+"name": "中央民族大学",
+"province": "北京",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10053",
+"name": "中国政法大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10055",
+"name": "南开大学",
+"province": "天津",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10056",
+"name": "天津大学",
+"province": "天津",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10057",
+"name": "天津科技大学",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10058",
+"name": "天津工业大学",
+"province": "天津",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10059",
+"name": "中国民航大学",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10060",
+"name": "天津理工大学",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10061",
+"name": "天津农学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10062",
+"name": "天津医科大学",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10063",
+"name": "天津中医药大学",
+"province": "天津",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10065",
+"name": "天津师范大学",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10066",
+"name": "天津职业技术师范大学",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10068",
+"name": "天津外国语大学",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10069",
+"name": "天津商业大学",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10070",
+"name": "天津财经大学",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10071",
+"name": "天津体育学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10072",
+"name": "天津音乐学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10073",
+"name": "天津美术学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10075",
+"name": "河北大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10076",
+"name": "河北工程大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10077",
+"name": "河北地质大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10078",
+"name": "华北水利水电大学",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10080",
+"name": "河北工业大学",
+"province": "天津",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10081",
+"name": "华北理工大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10082",
+"name": "河北科技大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10084",
+"name": "河北建筑工程学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10085",
+"name": "河北水利电力学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10086",
+"name": "河北农业大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10089",
+"name": "河北医科大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10092",
+"name": "河北北方学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10093",
+"name": "承德医学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10094",
+"name": "河北师范大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10096",
+"name": "保定学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10098",
+"name": "河北民族师范学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10099",
+"name": "唐山师范学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10100",
+"name": "廊坊师范学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10101",
+"name": "衡水学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10102",
+"name": "石家庄学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10103",
+"name": "邯郸学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10104",
+"name": "邢台学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10105",
+"name": "沧州师范学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10107",
+"name": "石家庄铁道大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10108",
+"name": "山西大学",
+"province": "山西",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10109",
+"name": "太原科技大学",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10110",
+"name": "中北大学",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10112",
+"name": "太原理工大学",
+"province": "山西",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10113",
+"name": "山西农业大学",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10114",
+"name": "山西医科大学",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10117",
+"name": "长治医学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10118",
+"name": "山西师范大学",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10119",
+"name": "太原师范学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10120",
+"name": "山西大同大学",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10121",
+"name": "晋中学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10122",
+"name": "长治学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10123",
+"name": "运城学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10124",
+"name": "忻州师范学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10125",
+"name": "山西财经大学",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10126",
+"name": "内蒙古大学",
+"province": "内蒙古",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10127",
+"name": "内蒙古科技大学",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10128",
+"name": "内蒙古工业大学",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10129",
+"name": "内蒙古农业大学",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10132",
+"name": "内蒙古医科大学",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10135",
+"name": "内蒙古师范大学",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10136",
+"name": "内蒙古民族大学",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10138",
+"name": "赤峰学院",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10139",
+"name": "内蒙古财经大学",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10140",
+"name": "辽宁大学",
+"province": "辽宁",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10141",
+"name": "大连理工大学",
+"province": "辽宁",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10142",
+"name": "沈阳工业大学",
+"province": "辽宁",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10143",
+"name": "沈阳航空航天大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10144",
+"name": "沈阳理工大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10145",
+"name": "东北大学",
+"province": "辽宁",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10146",
+"name": "辽宁科技大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10147",
+"name": "辽宁工程技术大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10148",
+"name": "辽宁石油化工大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10149",
+"name": "沈阳化工大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10150",
+"name": "大连交通大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10151",
+"name": "大连海事大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10152",
+"name": "大连工业大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10153",
+"name": "沈阳建筑大学",
+"province": "辽宁",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10154",
+"name": "辽宁工业大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10157",
+"name": "沈阳农业大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10158",
+"name": "大连海洋大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10159",
+"name": "中国医科大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10160",
+"name": "锦州医科大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10161",
+"name": "大连医科大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10162",
+"name": "辽宁中医药大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10163",
+"name": "沈阳药科大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10164",
+"name": "沈阳医学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10165",
+"name": "辽宁师范大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10166",
+"name": "沈阳师范大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10167",
+"name": "渤海大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10169",
+"name": "鞍山师范学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10171",
+"name": "朝阳师范学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10172",
+"name": "大连外国语大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10173",
+"name": "东北财经大学",
+"province": "辽宁",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10175",
+"name": "中国刑事警察学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10176",
+"name": "沈阳体育学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10177",
+"name": "沈阳音乐学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10178",
+"name": "鲁迅美术学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10183",
+"name": "吉林大学",
+"province": "吉林",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10184",
+"name": "延边大学",
+"province": "吉林",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10186",
+"name": "长春理工大学",
+"province": "吉林",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10188",
+"name": "东北电力大学",
+"province": "吉林",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10190",
+"name": "长春工业大学",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10191",
+"name": "吉林建筑大学",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10192",
+"name": "吉林化工学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10193",
+"name": "吉林农业大学",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10199",
+"name": "长春中医药大学",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10200",
+"name": "东北师范大学",
+"province": "吉林",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10201",
+"name": "北华大学",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10202",
+"name": "通化师范学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10203",
+"name": "吉林师范大学",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10204",
+"name": "吉林工程技术师范学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10205",
+"name": "长春师范大学",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10206",
+"name": "白城师范学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10207",
+"name": "吉林财经大学",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10208",
+"name": "吉林体育学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10209",
+"name": "吉林艺术学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10212",
+"name": "黑龙江大学",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10213",
+"name": "哈尔滨工业大学",
+"province": "黑龙江",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10214",
+"name": "哈尔滨理工大学",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10216",
+"name": "燕山大学",
+"province": "河北",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10217",
+"name": "哈尔滨工程大学",
+"province": "黑龙江",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10219",
+"name": "黑龙江科技大学",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10220",
+"name": "东北石油大学",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10222",
+"name": "佳木斯大学",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10223",
+"name": "黑龙江八一农垦大学",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10224",
+"name": "东北农业大学",
+"province": "黑龙江",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10225",
+"name": "东北林业大学",
+"province": "黑龙江",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10226",
+"name": "哈尔滨医科大学",
+"province": "黑龙江",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10228",
+"name": "黑龙江中医药大学",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10229",
+"name": "牡丹江医科大学",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10231",
+"name": "哈尔滨师范大学",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10232",
+"name": "齐齐哈尔大学",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10233",
+"name": "牡丹江师范学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10234",
+"name": "哈尔滨学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10235",
+"name": "大庆师范学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10236",
+"name": "绥化学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10240",
+"name": "哈尔滨商业大学",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10242",
+"name": "哈尔滨体育学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10245",
+"name": "哈尔滨金融学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10246",
+"name": "复旦大学",
+"province": "上海",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10247",
+"name": "同济大学",
+"province": "上海",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10248",
+"name": "上海交通大学",
+"province": "上海",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10251",
+"name": "华东理工大学",
+"province": "上海",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10252",
+"name": "上海理工大学",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10254",
+"name": "上海海事大学",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10255",
+"name": "东华大学",
+"province": "上海",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10256",
+"name": "上海电力大学",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10259",
+"name": "上海应用技术大学",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10262",
+"name": "上海健康医学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10264",
+"name": "上海海洋大学",
+"province": "上海",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10268",
+"name": "上海中医药大学",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10269",
+"name": "华东师范大学",
+"province": "上海",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10270",
+"name": "上海师范大学",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10271",
+"name": "上海外国语大学",
+"province": "上海",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10272",
+"name": "上海财经大学",
+"province": "上海",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10273",
+"name": "上海对外经贸大学",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10274",
+"name": "上海海关学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10276",
+"name": "华东政法大学",
+"province": "上海",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10277",
+"name": "上海体育大学",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10278",
+"name": "上海音乐学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10279",
+"name": "上海戏剧学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10280",
+"name": "上海大学",
+"province": "上海",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10284",
+"name": "南京大学",
+"province": "江苏",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10285",
+"name": "苏州大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10286",
+"name": "东南大学",
+"province": "江苏",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10287",
+"name": "南京航空航天大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10288",
+"name": "南京理工大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10289",
+"name": "江苏科技大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10290",
+"name": "中国矿业大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10291",
+"name": "南京工业大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10292",
+"name": "常州大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10293",
+"name": "南京邮电大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10294",
+"name": "河海大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10295",
+"name": "江南大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10298",
+"name": "南京林业大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10299",
+"name": "江苏大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10300",
+"name": "南京信息工程大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10304",
+"name": "南通大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10305",
+"name": "盐城工学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10307",
+"name": "南京农业大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10312",
+"name": "南京医科大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10313",
+"name": "徐州医科大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10315",
+"name": "南京中医药大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10316",
+"name": "中国药科大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10319",
+"name": "南京师范大学",
+"province": "江苏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10320",
+"name": "江苏师范大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10323",
+"name": "淮阴师范学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10324",
+"name": "盐城师范学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10327",
+"name": "南京财经大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10330",
+"name": "南京体育学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10331",
+"name": "南京艺术学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10332",
+"name": "苏州科技大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10333",
+"name": "常熟理工学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10335",
+"name": "浙江大学",
+"province": "浙江",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10336",
+"name": "杭州电子科技大学",
+"province": "浙江",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10337",
+"name": "浙江工业大学",
+"province": "浙江",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10338",
+"name": "浙江理工大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10340",
+"name": "浙江海洋大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10341",
+"name": "浙江农林大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10343",
+"name": "温州医科大学",
+"province": "浙江",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10344",
+"name": "浙江中医药大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10345",
+"name": "浙江师范大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10346",
+"name": "杭州师范大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10347",
+"name": "湖州师范学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10349",
+"name": "绍兴文理学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10350",
+"name": "台州学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10351",
+"name": "温州大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10352",
+"name": "丽水学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10353",
+"name": "浙江工商大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10354",
+"name": "嘉兴大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10355",
+"name": "中国美术学院",
+"province": "浙江",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10356",
+"name": "中国计量大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10357",
+"name": "安徽大学",
+"province": "安徽",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10358",
+"name": "中国科学技术大学",
+"province": "安徽",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10359",
+"name": "合肥工业大学",
+"province": "安徽",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10360",
+"name": "安徽工业大学",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10361",
+"name": "安徽理工大学",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10363",
+"name": "安徽工程大学",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10364",
+"name": "安徽农业大学",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10366",
+"name": "安徽医科大学",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10367",
+"name": "蚌埠医科大学",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10369",
+"name": "安徽中医药大学",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10370",
+"name": "安徽师范大学",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10371",
+"name": "阜阳师范大学",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10372",
+"name": "安庆师范大学",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10373",
+"name": "淮北师范大学",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10375",
+"name": "黄山学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10376",
+"name": "皖西学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10377",
+"name": "滁州学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10378",
+"name": "安徽财经大学",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10379",
+"name": "宿州学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10380",
+"name": "巢湖学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10381",
+"name": "淮南师范学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10383",
+"name": "铜陵学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10384",
+"name": "厦门大学",
+"province": "福建",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10385",
+"name": "华侨大学",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10386",
+"name": "福州大学",
+"province": "福建",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10388",
+"name": "福建理工大学",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10389",
+"name": "福建农林大学",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10390",
+"name": "集美大学",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10392",
+"name": "福建医科大学",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10393",
+"name": "福建中医药大学",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10394",
+"name": "福建师范大学",
+"province": "福建",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10395",
+"name": "闽江学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10397",
+"name": "武夷学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10398",
+"name": "宁德师范学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10399",
+"name": "泉州师范学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10402",
+"name": "闽南师范大学",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10403",
+"name": "南昌大学",
+"province": "江西",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10404",
+"name": "华东交通大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10405",
+"name": "东华理工大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10406",
+"name": "南昌航空大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10407",
+"name": "江西理工大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10408",
+"name": "景德镇陶瓷大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10410",
+"name": "江西农业大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10412",
+"name": "江西中医药大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10413",
+"name": "赣南医科大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10414",
+"name": "江西师范大学",
+"province": "江西",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10416",
+"name": "上饶师范学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10417",
+"name": "宜春学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10418",
+"name": "赣南师范大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10419",
+"name": "井冈山大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10421",
+"name": "江西财经大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10422",
+"name": "山东大学",
+"province": "山东",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10423",
+"name": "中国海洋大学",
+"province": "山东",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10424",
+"name": "山东科技大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10426",
+"name": "青岛科技大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10427",
+"name": "济南大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10429",
+"name": "青岛理工大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10430",
+"name": "山东建筑大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10431",
+"name": "齐鲁工业大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10433",
+"name": "山东理工大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10434",
+"name": "山东农业大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10435",
+"name": "青岛农业大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10438",
+"name": "山东第二医科大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10439",
+"name": "山东第一医科大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10440",
+"name": "滨州医学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10441",
+"name": "山东中医药大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10443",
+"name": "济宁医学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10445",
+"name": "山东师范大学",
+"province": "山东",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10446",
+"name": "曲阜师范大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10447",
+"name": "聊城大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10448",
+"name": "德州学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10449",
+"name": "山东航空学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10451",
+"name": "鲁东大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10452",
+"name": "临沂大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10453",
+"name": "泰山学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10454",
+"name": "济宁学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10455",
+"name": "菏泽学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10456",
+"name": "山东财经大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10457",
+"name": "山东体育学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10458",
+"name": "山东艺术学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10459",
+"name": "郑州大学",
+"province": "河南",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10460",
+"name": "河南理工大学",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10462",
+"name": "郑州轻工业大学",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10463",
+"name": "河南工业大学",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10464",
+"name": "河南科技大学",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10465",
+"name": "中原工学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10466",
+"name": "河南农业大学",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10467",
+"name": "河南科技学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10469",
+"name": "河南牧业经济学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10471",
+"name": "河南中医药大学",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10472",
+"name": "新乡医学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10475",
+"name": "河南大学",
+"province": "河南",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10476",
+"name": "河南师范大学",
+"province": "河南",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10477",
+"name": "信阳师范大学",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10478",
+"name": "周口师范学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10479",
+"name": "安阳师范学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10480",
+"name": "许昌学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10481",
+"name": "南阳师范学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10482",
+"name": "洛阳师范学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10483",
+"name": "商丘师范学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10484",
+"name": "河南财经政法大学",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10485",
+"name": "郑州航空工业管理学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10486",
+"name": "武汉大学",
+"province": "湖北",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10487",
+"name": "华中科技大学",
+"province": "湖北",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10488",
+"name": "武汉科技大学",
+"province": "湖北",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10489",
+"name": "长江大学",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10490",
+"name": "武汉工程大学",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10495",
+"name": "武汉纺织大学",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10496",
+"name": "武汉轻工大学",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10497",
+"name": "武汉理工大学",
+"province": "湖北",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10500",
+"name": "湖北工业大学",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10504",
+"name": "华中农业大学",
+"province": "湖北",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10507",
+"name": "湖北中医药大学",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10511",
+"name": "华中师范大学",
+"province": "湖北",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10512",
+"name": "湖北大学",
+"province": "湖北",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10513",
+"name": "湖北师范大学",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10514",
+"name": "黄冈师范学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10517",
+"name": "湖北民族大学",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10518",
+"name": "汉江师范学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10519",
+"name": "湖北文理学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10520",
+"name": "中南财经政法大学",
+"province": "湖北",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10522",
+"name": "武汉体育学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10523",
+"name": "湖北美术学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10524",
+"name": "中南民族大学",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10525",
+"name": "湖北汽车工业学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10528",
+"name": "湖北工程学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10530",
+"name": "湘潭大学",
+"province": "湖南",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10531",
+"name": "吉首大学",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10532",
+"name": "湖南大学",
+"province": "湖南",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10533",
+"name": "中南大学",
+"province": "湖南",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10534",
+"name": "湖南科技大学",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10536",
+"name": "长沙理工大学",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10537",
+"name": "湖南农业大学",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10538",
+"name": "中南林业科技大学",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10541",
+"name": "湖南中医药大学",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10542",
+"name": "湖南师范大学",
+"province": "湖南",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10543",
+"name": "湖南理工学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10545",
+"name": "湘南学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10546",
+"name": "衡阳师范学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10547",
+"name": "邵阳学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10548",
+"name": "怀化学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10549",
+"name": "湖南文理学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10551",
+"name": "湖南科技学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10553",
+"name": "湖南人文科技学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10554",
+"name": "湖南工商大学",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10555",
+"name": "南华大学",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10558",
+"name": "中山大学",
+"province": "广东",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10559",
+"name": "暨南大学",
+"province": "广东",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10560",
+"name": "汕头大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10561",
+"name": "华南理工大学",
+"province": "广东",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10564",
+"name": "华南农业大学",
+"province": "广东",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10566",
+"name": "广东海洋大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10571",
+"name": "广东医科大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10572",
+"name": "广州中医药大学",
+"province": "广东",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10573",
+"name": "广东药科大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10574",
+"name": "华南师范大学",
+"province": "广东",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10576",
+"name": "韶关学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10578",
+"name": "韩山师范学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10579",
+"name": "岭南师范学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10580",
+"name": "肇庆学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10585",
+"name": "广州体育学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10586",
+"name": "广州美术学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10587",
+"name": "星海音乐学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10588",
+"name": "广东技术师范大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10589",
+"name": "海南大学",
+"province": "海南",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10590",
+"name": "深圳大学",
+"province": "广东",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10592",
+"name": "广东财经大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10593",
+"name": "广西大学",
+"province": "广西",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10594",
+"name": "广西科技大学",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10595",
+"name": "桂林电子科技大学",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10596",
+"name": "桂林理工大学",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10598",
+"name": "广西医科大学",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10599",
+"name": "右江民族医学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10600",
+"name": "广西中医药大学",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10601",
+"name": "桂林医学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10602",
+"name": "广西师范大学",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10603",
+"name": "南宁师范大学",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10605",
+"name": "河池学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10606",
+"name": "玉林师范学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10607",
+"name": "广西艺术学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10608",
+"name": "广西民族大学",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10609",
+"name": "百色学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10610",
+"name": "四川大学",
+"province": "四川",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10611",
+"name": "重庆大学",
+"province": "重庆",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10613",
+"name": "西南交通大学",
+"province": "四川",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10614",
+"name": "电子科技大学",
+"province": "四川",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10615",
+"name": "西南石油大学",
+"province": "四川",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10616",
+"name": "成都理工大学",
+"province": "四川",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10617",
+"name": "重庆邮电大学",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10618",
+"name": "重庆交通大学",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10619",
+"name": "西南科技大学",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10621",
+"name": "成都信息工程大学",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10622",
+"name": "四川轻化工大学",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10623",
+"name": "西华大学",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10624",
+"name": "中国民用航空飞行学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10626",
+"name": "四川农业大学",
+"province": "四川",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10628",
+"name": "西昌学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10631",
+"name": "重庆医科大学",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10632",
+"name": "西南医科大学",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10633",
+"name": "成都中医药大学",
+"province": "四川",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10634",
+"name": "川北医学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10635",
+"name": "西南大学",
+"province": "重庆",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10636",
+"name": "四川师范大学",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10637",
+"name": "重庆师范大学",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10638",
+"name": "西华师范大学",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10639",
+"name": "绵阳师范学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10640",
+"name": "内江师范学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10641",
+"name": "宜宾学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10642",
+"name": "重庆文理学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10643",
+"name": "重庆三峡学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10644",
+"name": "四川文理学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10646",
+"name": "阿坝师范学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10647",
+"name": "长江师范学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10649",
+"name": "乐山师范学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10650",
+"name": "四川外国语大学",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10651",
+"name": "西南财经大学",
+"province": "四川",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10652",
+"name": "西南政法大学",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10653",
+"name": "成都体育学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10654",
+"name": "四川音乐学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10655",
+"name": "四川美术学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10656",
+"name": "西南民族大学",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10657",
+"name": "贵州大学",
+"province": "贵州",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10660",
+"name": "贵州医科大学",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10661",
+"name": "遵义医科大学",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10663",
+"name": "贵州师范大学",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10664",
+"name": "遵义师范学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10666",
+"name": "兴义民族师范学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10667",
+"name": "安顺学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10669",
+"name": "凯里学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10670",
+"name": "黔南民族师范学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10671",
+"name": "贵州财经大学",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10672",
+"name": "贵州民族大学",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10673",
+"name": "云南大学",
+"province": "云南",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10674",
+"name": "昆明理工大学",
+"province": "云南",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10676",
+"name": "云南农业大学",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10677",
+"name": "西南林业大学",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10678",
+"name": "昆明医科大学",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10679",
+"name": "大理大学",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10680",
+"name": "云南中医药大学",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10681",
+"name": "云南师范大学",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10684",
+"name": "曲靖师范学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10685",
+"name": "普洱学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10686",
+"name": "保山学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10687",
+"name": "红河学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10689",
+"name": "云南财经大学",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10690",
+"name": "云南艺术学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10691",
+"name": "云南民族大学",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10693",
+"name": "西藏农牧学院",
+"province": "西藏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10694",
+"name": "西藏大学",
+"province": "西藏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10695",
+"name": "西藏民族大学",
+"province": "西藏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10697",
+"name": "西北大学",
+"province": "陕西",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10698",
+"name": "西安交通大学",
+"province": "陕西",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10699",
+"name": "西北工业大学",
+"province": "陕西",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10700",
+"name": "西安理工大学",
+"province": "陕西",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10701",
+"name": "西安电子科技大学",
+"province": "陕西",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10702",
+"name": "西安工业大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10703",
+"name": "西安建筑科技大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10704",
+"name": "西安科技大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10705",
+"name": "西安石油大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10708",
+"name": "陕西科技大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10709",
+"name": "西安工程大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10710",
+"name": "长安大学",
+"province": "陕西",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10712",
+"name": "西北农林科技大学",
+"province": "陕西",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10716",
+"name": "陕西中医药大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10718",
+"name": "陕西师范大学",
+"province": "陕西",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10719",
+"name": "延安大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10720",
+"name": "陕西理工大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10721",
+"name": "宝鸡文理学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10722",
+"name": "咸阳师范学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10723",
+"name": "渭南师范学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10724",
+"name": "西安外国语大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10726",
+"name": "西北政法大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10727",
+"name": "西安体育学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10728",
+"name": "西安音乐学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10729",
+"name": "西安美术学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10730",
+"name": "兰州大学",
+"province": "甘肃",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10731",
+"name": "兰州理工大学",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10732",
+"name": "兰州交通大学",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10733",
+"name": "甘肃农业大学",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10735",
+"name": "甘肃中医药大学",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10736",
+"name": "西北师范大学",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10737",
+"name": "兰州城市学院",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10738",
+"name": "陇东学院",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10739",
+"name": "天水师范学院",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10740",
+"name": "河西学院",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10741",
+"name": "兰州财经大学",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10742",
+"name": "西北民族大学",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10743",
+"name": "青海大学",
+"province": "青海",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10746",
+"name": "青海师范大学",
+"province": "青海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10748",
+"name": "青海民族大学",
+"province": "青海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10749",
+"name": "宁夏大学",
+"province": "宁夏",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10752",
+"name": "宁夏医科大学",
+"province": "宁夏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10753",
+"name": "宁夏师范大学",
+"province": "宁夏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10755",
+"name": "新疆大学",
+"province": "新疆",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10757",
+"name": "塔里木大学",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10758",
+"name": "新疆农业大学",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10759",
+"name": "石河子大学",
+"province": "新疆",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "10760",
+"name": "新疆医科大学",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10762",
+"name": "新疆师范大学",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10763",
+"name": "喀什大学",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10764",
+"name": "伊犁师范大学",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10765",
+"name": "新疆和田学院",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10766",
+"name": "新疆财经大学",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10768",
+"name": "新疆艺术学院",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10792",
+"name": "天津城建大学",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10798",
+"name": "河北科技师范学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10809",
+"name": "山西中医药大学",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10812",
+"name": "吕梁学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10819",
+"name": "呼伦贝尔学院",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10822",
+"name": "广东白云学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10823",
+"name": "长沙医学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10825",
+"name": "齐鲁医药学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10833",
+"name": "广东轻工职业技术大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10841",
+"name": "辽宁对外经贸学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10846",
+"name": "江西科技学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10850",
+"name": "南京工业职业技术大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10856",
+"name": "上海工程技术大学",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10859",
+"name": "天津天狮学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10868",
+"name": "青岛滨海学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10876",
+"name": "浙江万里学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10878",
+"name": "安徽建筑大学",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10879",
+"name": "安徽科技学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10894",
+"name": "景德镇学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10895",
+"name": "萍乡学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10904",
+"name": "枣庄学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10908",
+"name": "山东工艺美术学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10918",
+"name": "黄淮学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10919",
+"name": "平顶山学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10920",
+"name": "湖北理工学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10927",
+"name": "湖北科技学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10929",
+"name": "湖北医药学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10959",
+"name": "安徽三联学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10964",
+"name": "吉林外国语大学",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10976",
+"name": "贵阳学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10977",
+"name": "六盘水师范学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10994",
+"name": "新疆工程学院",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10995",
+"name": "新疆农业职业技术大学",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "10997",
+"name": "昌吉学院",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11033",
+"name": "唐山学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11035",
+"name": "沈阳大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11047",
+"name": "上海立信会计金融学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11048",
+"name": "金陵科技学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11049",
+"name": "淮阴工学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11053",
+"name": "徐州工程学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11055",
+"name": "常州工学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11057",
+"name": "浙江科技大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11058",
+"name": "宁波工程学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11059",
+"name": "合肥大学",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11062",
+"name": "厦门理工学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11065",
+"name": "青岛大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11066",
+"name": "烟台大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11067",
+"name": "潍坊学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11068",
+"name": "郑州工程技术学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11070",
+"name": "洛阳理工学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11071",
+"name": "新乡学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11072",
+"name": "江汉大学",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11075",
+"name": "三峡大学",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11077",
+"name": "长沙学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11078",
+"name": "广州大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11079",
+"name": "成都大学",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11080",
+"name": "西安文理学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11100",
+"name": "海南热带海洋学院",
+"province": "海南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11104",
+"name": "华北科技学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11105",
+"name": "中国人民警察大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11106",
+"name": "广州航海学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11113",
+"name": "深圳职业技术大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11116",
+"name": "成都工业学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11117",
+"name": "扬州大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11122",
+"name": "三江学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11149",
+"name": "中华女子学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11230",
+"name": "齐齐哈尔医学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11232",
+"name": "北京信息科技大学",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11236",
+"name": "河北体育学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11242",
+"name": "太原学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11258",
+"name": "大连大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11261",
+"name": "吉林工商学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11276",
+"name": "南京工程学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11287",
+"name": "南京审计大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11305",
+"name": "蚌埠学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11306",
+"name": "池州学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11311",
+"name": "三明学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11312",
+"name": "龙岩学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11313",
+"name": "福建商学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11318",
+"name": "江西科技师范大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11319",
+"name": "南昌工程学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11324",
+"name": "山东警察学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11326",
+"name": "信阳农林学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11329",
+"name": "河南工学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11330",
+"name": "安阳工学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11332",
+"name": "湖北警官学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11336",
+"name": "荆楚理工学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11342",
+"name": "湖南工程学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11347",
+"name": "仲恺农业工程学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11349",
+"name": "五邑大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11354",
+"name": "梧州学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11360",
+"name": "攀枝花学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11390",
+"name": "玉溪师范学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11391",
+"name": "楚雄师范学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11392",
+"name": "云南警官学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11393",
+"name": "昆明学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11395",
+"name": "榆林学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11396",
+"name": "商洛学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11397",
+"name": "安康学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11400",
+"name": "西安培华学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11406",
+"name": "甘肃政法大学",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11407",
+"name": "北方民族大学",
+"province": "宁夏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11417",
+"name": "北京联合大学",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11418",
+"name": "北京城市学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11420",
+"name": "河北金融学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11427",
+"name": "集宁师范学院",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11430",
+"name": "辽宁科技学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11436",
+"name": "长春汽车职业技术大学",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11437",
+"name": "长春工程学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11439",
+"name": "吉林农业科技学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11441",
+"name": "吉林警察学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11445",
+"name": "黑龙江工业学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11446",
+"name": "黑龙江东方学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11458",
+"name": "上海电机学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11460",
+"name": "南京晓庄学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11463",
+"name": "江苏理工学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11466",
+"name": "南京警察学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11481",
+"name": "浙江水利水电学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11482",
+"name": "浙江财经大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11483",
+"name": "浙江警察学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11488",
+"name": "衢州学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11498",
+"name": "莆田学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11508",
+"name": "新余学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11510",
+"name": "山东交通学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11517",
+"name": "河南工程学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11524",
+"name": "武汉音乐学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11527",
+"name": "湖南城市学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11528",
+"name": "湖南工学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11532",
+"name": "湖南财政经济学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11535",
+"name": "湖南工业大学",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11538",
+"name": "湖南女子学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11540",
+"name": "广东金融学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11546",
+"name": "广西科技师范学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11547",
+"name": "广西警察学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11548",
+"name": "广西财经学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11549",
+"name": "南宁学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11551",
+"name": "重庆科技大学",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11552",
+"name": "四川旅游学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11556",
+"name": "文山学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11560",
+"name": "西安财经大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11561",
+"name": "甘肃民族师范学院",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11562",
+"name": "兰州文理学院",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11600",
+"name": "湖北经济学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11607",
+"name": "北部湾大学",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11629",
+"name": "北华航天工业学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11632",
+"name": "沈阳工程学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11635",
+"name": "哈尔滨信息工程学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11641",
+"name": "江苏海洋大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11646",
+"name": "宁波大学",
+"province": "浙江",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "11647",
+"name": "浙江传媒学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11652",
+"name": "河南财政金融学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11653",
+"name": "南阳理工学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11654",
+"name": "武汉商学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11656",
+"name": "广东石油化工学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11658",
+"name": "海南师范大学",
+"province": "海南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11660",
+"name": "重庆理工大学",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11661",
+"name": "四川民族学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11664",
+"name": "西安邮电大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11688",
+"name": "山东工商学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11709",
+"name": "呼和浩特民族学院",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11726",
+"name": "长春大学",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11731",
+"name": "贵州商学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11736",
+"name": "西安航空学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11765",
+"name": "河南城建学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11775",
+"name": "防灾科技学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11779",
+"name": "辽东学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11784",
+"name": "仰恩大学",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11785",
+"name": "江西职业技术大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11798",
+"name": "武汉东湖学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11799",
+"name": "重庆工商大学",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11800",
+"name": "汉口学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11802",
+"name": "黑龙江工程学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11805",
+"name": "甘肃医学院",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11806",
+"name": "陇南师范学院",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11807",
+"name": "兰州工业学院",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11810",
+"name": "海南医科大学",
+"province": "海南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11819",
+"name": "东莞理工学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11825",
+"name": "桂林航天工业学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11832",
+"name": "河北经贸大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11833",
+"name": "上海杉达学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11834",
+"name": "黄河科技学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11835",
+"name": "上海政法学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11837",
+"name": "桂林旅游学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11838",
+"name": "贺州学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11840",
+"name": "西安医学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11842",
+"name": "浙江树人学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11843",
+"name": "九江学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11845",
+"name": "广东工业大学",
+"province": "广东",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "11846",
+"name": "广东外语外贸大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11847",
+"name": "佛山大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11903",
+"name": "中央司法警官学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11937",
+"name": "四川警察学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11963",
+"name": "亳州学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "11964",
+"name": "邢台医学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12026",
+"name": "大连民族大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12034",
+"name": "湖南第一师范学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12044",
+"name": "上海第二工业大学",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12048",
+"name": "南京特殊教育师范学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12050",
+"name": "上海商学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12056",
+"name": "南通理工学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12059",
+"name": "广东培正学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12104",
+"name": "柳州职业技术大学",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12105",
+"name": "天津中德应用技术大学",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12107",
+"name": "贵州警察学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12121",
+"name": "南方医科大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12214",
+"name": "湖南医药学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12216",
+"name": "安徽新华学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12222",
+"name": "贵州交通职业大学",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12303",
+"name": "湖南涉外经济学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12308",
+"name": "海口经济学院",
+"province": "海南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12309",
+"name": "武昌首义学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12310",
+"name": "武昌理工学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12331",
+"name": "山东女子学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12332",
+"name": "烟台南山学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12362",
+"name": "武汉生物工程学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12453",
+"name": "中国劳动关系学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12544",
+"name": "宁夏理工学院",
+"province": "宁夏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12560",
+"name": "云南经济管理学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12574",
+"name": "广东东软学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12587",
+"name": "上海立达学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12595",
+"name": "辽宁理工职业大学",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12604",
+"name": "湖南工业大学科技学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12607",
+"name": "重庆机电职业技术大学",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12608",
+"name": "重庆工程学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12609",
+"name": "重庆电子科技职业大学",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12616",
+"name": "重庆城市科技学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12617",
+"name": "广州城市理工学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12618",
+"name": "广州软件学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12619",
+"name": "广州南方学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12622",
+"name": "湛江科技学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12623",
+"name": "华南农业大学珠江学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12631",
+"name": "厦门医学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12636",
+"name": "成都东软学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12649",
+"name": "湖南科技大学潇湘学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12650",
+"name": "南华大学船山学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12651",
+"name": "湘潭理工学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12652",
+"name": "长沙工业学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12656",
+"name": "中南林业科技大学涉外学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12657",
+"name": "湖南文理学院芙蓉学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12658",
+"name": "湖南理工学院南湖学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12659",
+"name": "衡阳师范学院南岳学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12662",
+"name": "张家界学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12668",
+"name": "广州理工学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12689",
+"name": "东南大学成贤学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12709",
+"name": "厦门华厦学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12710",
+"name": "闽南理工学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12712",
+"name": "西安欧亚学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12713",
+"name": "西安外事学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12714",
+"name": "西安翻译学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12715",
+"name": "西京学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12729",
+"name": "齐齐哈尔工程学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12734",
+"name": "新疆警察学院",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12735",
+"name": "郑州警察学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12746",
+"name": "郑州科技学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12747",
+"name": "郑州工业应用技术学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12763",
+"name": "四川工程职业技术大学",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12766",
+"name": "江西工程学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12779",
+"name": "山西应用科技学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12784",
+"name": "河北传媒学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12787",
+"name": "唐山工业职业技术大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12792",
+"name": "浙江越秀外国语学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12795",
+"name": "南昌理工学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12796",
+"name": "河北工程技术学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12799",
+"name": "上海建桥学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12802",
+"name": "吉利学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12810",
+"name": "安徽文达信息工程学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12835",
+"name": "甘肃林业职业技术大学",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12843",
+"name": "潍坊科技学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12861",
+"name": "浙江机电职业技术大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12911",
+"name": "哈尔滨职业技术大学",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12914",
+"name": "上海兴伟学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12915",
+"name": "上海中侨职业技术大学",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12928",
+"name": "泉州职业技术大学",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12938",
+"name": "江西应用科技学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12969",
+"name": "成都艺术职业大学",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12973",
+"name": "青海职业技术大学",
+"province": "青海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12992",
+"name": "闽南科技学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "12993",
+"name": "福州工商学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13006",
+"name": "山东英才学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13015",
+"name": "青岛恒星科技学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13021",
+"name": "浙大城市学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13022",
+"name": "浙大宁波理工学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13029",
+"name": "浙江广厦建设职业技术大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13065",
+"name": "安徽外国语学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13075",
+"name": "河北美术学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13115",
+"name": "厦门工学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13121",
+"name": "西安思源学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13123",
+"name": "陕西国际商贸学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13125",
+"name": "陕西服装工程学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13188",
+"name": "武汉晴川学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13198",
+"name": "大连理工大学城市学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13201",
+"name": "沈阳工学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13207",
+"name": "大连科技学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13213",
+"name": "锦州医科大学医疗学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13215",
+"name": "辽宁师范大学海华学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13217",
+"name": "辽宁理工学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13218",
+"name": "大连财经学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13220",
+"name": "沈阳城市学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13234",
+"name": "湖北大学知行学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13235",
+"name": "武汉城市学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13236",
+"name": "三峡大学科技学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13237",
+"name": "武汉文理学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13238",
+"name": "湖北工业大学工程技术学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13239",
+"name": "武汉工程大学邮电与信息工程学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13240",
+"name": "武汉纺织大学外经贸学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13241",
+"name": "武昌工学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13242",
+"name": "武汉工商学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13245",
+"name": "荆州学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13246",
+"name": "长江大学文理学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13247",
+"name": "湖北商贸学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13249",
+"name": "湖北医药学院药护学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13250",
+"name": "湖北恩施学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13251",
+"name": "湖北经济学院法商学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13253",
+"name": "武汉体育学院体育科技学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13256",
+"name": "湖北师范大学文理学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13257",
+"name": "湖北文理学院理工学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13258",
+"name": "湖北工程学院新技术学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13262",
+"name": "文华学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13275",
+"name": "浙江工业大学之江学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13276",
+"name": "浙江师范大学行知学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13277",
+"name": "宁波大学科学技术学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13279",
+"name": "杭州电子科技大学信息工程学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13280",
+"name": "浙江理工大学科技与艺术学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13283",
+"name": "浙江农林大学暨阳学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13284",
+"name": "温州医科大学仁济学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13287",
+"name": "湖州学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13288",
+"name": "绍兴文理学院元培学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13289",
+"name": "温州理工学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13290",
+"name": "浙江工商大学杭州商学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13291",
+"name": "嘉兴南湖学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13292",
+"name": "中国计量大学现代科技学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13296",
+"name": "黑龙江外国语学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13298",
+"name": "黑龙江财经学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13299",
+"name": "哈尔滨石油学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13300",
+"name": "黑龙江工商学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13303",
+"name": "哈尔滨剑桥学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13304",
+"name": "黑龙江工程学院昆仑旅游学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13306",
+"name": "哈尔滨广厦学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13307",
+"name": "哈尔滨华德学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13320",
+"name": "青岛黄海学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13322",
+"name": "山东现代学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13324",
+"name": "山东协和学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13325",
+"name": "宁夏大学新华学院",
+"province": "宁夏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13326",
+"name": "滇池学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13328",
+"name": "丽江文化旅游学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13330",
+"name": "昆明城市学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13332",
+"name": "昆明医科大学海源学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13333",
+"name": "昆明传媒学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13356",
+"name": "山东工程职业技术大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13359",
+"name": "烟台理工学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13378",
+"name": "青岛城市学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13383",
+"name": "山东财经大学燕山学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13386",
+"name": "山东石油化工学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13387",
+"name": "山东外国语职业技术大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13391",
+"name": "河北科技学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13402",
+"name": "河北外国语学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13408",
+"name": "华北理工大学轻工学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13411",
+"name": "河北师范大学汇华学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13414",
+"name": "河北经贸大学经济管理学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13415",
+"name": "河北医科大学临床学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13418",
+"name": "江西服装学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13420",
+"name": "南昌职业大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13421",
+"name": "南昌工学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13429",
+"name": "南昌大学科学技术学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13431",
+"name": "南昌交通学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13432",
+"name": "赣东学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13433",
+"name": "南昌航空大学科技学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13434",
+"name": "赣南科技学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13435",
+"name": "景德镇艺术职业大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13436",
+"name": "江西农业大学南昌商学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13437",
+"name": "南昌医学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13438",
+"name": "江西师范大学科学技术学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13439",
+"name": "赣南师范大学科技学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13440",
+"name": "南昌应用技术师范学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13441",
+"name": "江西财经大学现代经济管理学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13468",
+"name": "阳光学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13469",
+"name": "厦门大学嘉庚学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13470",
+"name": "福州大学至诚学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13471",
+"name": "集美大学诚毅学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13472",
+"name": "福建师范大学协和学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13497",
+"name": "郑州财经学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13500",
+"name": "商丘工学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13501",
+"name": "河南开封科技传媒学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13503",
+"name": "信阳学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13504",
+"name": "安阳学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13505",
+"name": "新乡医学院三全学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13507",
+"name": "郑州工商学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13511",
+"name": "兰州工商学院",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13514",
+"name": "兰州博文科技学院",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13515",
+"name": "兰州信息科技学院",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13524",
+"name": "北海艺术设计学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13534",
+"name": "山西工学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13535",
+"name": "晋中信息学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13537",
+"name": "山西电子科技学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13538",
+"name": "山西晋中理工学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13548",
+"name": "重庆人文科技学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13558",
+"name": "新疆理工学院",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13560",
+"name": "新疆第二医学院",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13561",
+"name": "新疆科技学院",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13569",
+"name": "西安交通工程学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13571",
+"name": "无锡太湖学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13578",
+"name": "河北工程大学科信学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13579",
+"name": "中国矿业大学徐海学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13588",
+"name": "重庆外语外事学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13589",
+"name": "重庆对外经贸学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13590",
+"name": "重庆财经学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13591",
+"name": "重庆工商大学派斯学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13593",
+"name": "石家庄铁道大学四方学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13594",
+"name": "河北地质大学华信学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13596",
+"name": "华北理工大学冀唐学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13597",
+"name": "山西科技学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13599",
+"name": "大连艺术学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13600",
+"name": "长春光华学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13601",
+"name": "长春工业大学人文信息学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13602",
+"name": "长春电子科技学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13603",
+"name": "长春财经学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13604",
+"name": "吉林建筑科技学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13605",
+"name": "长春建筑学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13606",
+"name": "长春科技学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13607",
+"name": "吉林动画学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13611",
+"name": "蚌埠工商学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13612",
+"name": "合肥理工学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13613",
+"name": "安徽信息工程学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13614",
+"name": "马鞍山学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13615",
+"name": "合肥城市学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13616",
+"name": "合肥经济学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13618",
+"name": "安徽医科大学临床医学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13619",
+"name": "阜阳理工学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13620",
+"name": "淮北理工学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13621",
+"name": "沈阳科技学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13623",
+"name": "长春大学旅游学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13624",
+"name": "泰山科技学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13625",
+"name": "昆明文理学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13626",
+"name": "昆明理工大学津桥学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13627",
+"name": "重庆移通学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13628",
+"name": "新疆政法学院",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13629",
+"name": "首都师范大学科德学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13630",
+"name": "北京金融科技学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13631",
+"name": "大连东软信息学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13632",
+"name": "上海视觉艺术学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13634",
+"name": "武汉学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13635",
+"name": "长沙理工大学城南学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13636",
+"name": "上海外国语大学贤达经济人文学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13637",
+"name": "温州商学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13639",
+"name": "柳州工学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13641",
+"name": "桂林学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13642",
+"name": "南宁师范大学师园学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13643",
+"name": "广西中医药大学赛恩斯新医药学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13644",
+"name": "桂林信息科技学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13645",
+"name": "南宁理工学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13649",
+"name": "贵州黔南科技学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13650",
+"name": "贵阳信息科技学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13651",
+"name": "贵阳人文科技学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13653",
+"name": "遵义医科大学医学与科技学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13654",
+"name": "南京理工大学紫金学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13655",
+"name": "南京航空航天大学金城学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13657",
+"name": "广州应用科技学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13658",
+"name": "天津外国语大学滨海外事学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13659",
+"name": "天津传媒学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13660",
+"name": "天津商业大学宝德学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13661",
+"name": "天津医科大学临床医学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13662",
+"name": "长春人文学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13664",
+"name": "武汉工程科技学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13665",
+"name": "电子科技大学成都学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13666",
+"name": "武汉华夏理工学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13667",
+"name": "广州商学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13668",
+"name": "成都理工大学工程技术学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13669",
+"name": "四川传媒学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13670",
+"name": "成都银杏酒店管理学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13671",
+"name": "成都文理学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13672",
+"name": "四川工商学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13673",
+"name": "成都外国语学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13677",
+"name": "西安交通大学城市学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13678",
+"name": "西北大学现代学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13679",
+"name": "西安建筑科技大学华清学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13681",
+"name": "陕西科技大学镐京学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13682",
+"name": "西安工商学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13683",
+"name": "延安大学西安创新学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13684",
+"name": "珠海科技学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13686",
+"name": "武汉传媒学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13687",
+"name": "南京传媒学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13691",
+"name": "山西工商学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13705",
+"name": "成都医学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13706",
+"name": "吉林医药学院",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13714",
+"name": "广州工商学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13720",
+"name": "广东理工学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13721",
+"name": "广东工商职业技术大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13727",
+"name": "新疆天山职业技术大学",
+"province": "新疆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13738",
+"name": "西安汽车职业大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13744",
+"name": "黑河学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13762",
+"name": "福州外语外贸学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13763",
+"name": "福建江夏学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13766",
+"name": "泉州信息工程学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13773",
+"name": "福州理工学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13774",
+"name": "豫章师范学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13776",
+"name": "江西软件职业技术大学",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13806",
+"name": "长沙师范学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13809",
+"name": "湖南应用技术学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13810",
+"name": "肇庆医学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13811",
+"name": "琼台师范学院",
+"province": "海南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13816",
+"name": "四川工业科技学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13819",
+"name": "陕西警察学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13820",
+"name": "银川能源学院",
+"province": "宁夏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13830",
+"name": "广西外国语学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13836",
+"name": "湖南信息学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13842",
+"name": "南京理工大学泰州科技学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13843",
+"name": "南京师范大学泰州学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13844",
+"name": "东莞城市学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13857",
+"name": "山东华宇工学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13874",
+"name": "山东外事职业大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13891",
+"name": "保定理工学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13892",
+"name": "三亚学院",
+"province": "海南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13893",
+"name": "上海师范大学天华学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13894",
+"name": "西安明德理工学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13895",
+"name": "燕京理工学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13896",
+"name": "天津师范大学津沽学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13897",
+"name": "天津理工大学中环信息学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13898",
+"name": "北京科技大学天津学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13899",
+"name": "北京中医药大学东方学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13900",
+"name": "辽宁财贸学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13901",
+"name": "北京邮电大学世纪学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13902",
+"name": "广州新华学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13903",
+"name": "成都锦城学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13904",
+"name": "北京工业大学耿丹学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13905",
+"name": "南京工业大学浦江学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13906",
+"name": "南京师范大学中北学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13909",
+"name": "云南工商学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13920",
+"name": "广西城市职业大学",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13924",
+"name": "湖南交通工程学院",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13925",
+"name": "湖南软件职业技术大学",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13937",
+"name": "湖南汽车工程职业大学",
+"province": "湖南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13957",
+"name": "辽宁传媒学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13980",
+"name": "南京医科大学康达学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13982",
+"name": "无锡学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13985",
+"name": "苏州科技大学天平学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13986",
+"name": "江苏大学京江学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13987",
+"name": "扬州大学广陵学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13988",
+"name": "江苏师范大学科文学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13989",
+"name": "南京邮电大学通达学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13990",
+"name": "南京财经大学红山学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13991",
+"name": "江苏科技大学苏州理工学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13992",
+"name": "常州大学怀德学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13993",
+"name": "南通大学杏林学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13994",
+"name": "南京审计大学金审学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13995",
+"name": "青岛工学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13997",
+"name": "青岛农业大学海都学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13998",
+"name": "齐鲁理工学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "13999",
+"name": "山东财经大学东方学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14000",
+"name": "潍坊理工学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14001",
+"name": "聊城大学东昌学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14002",
+"name": "烟台科技学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14003",
+"name": "商丘学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14015",
+"name": "丽江师范学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14030",
+"name": "西安信息职业大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14035",
+"name": "武汉设计工程学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14037",
+"name": "西南财经大学天府学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14038",
+"name": "天津仁爱学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14039",
+"name": "四川大学锦江学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14040",
+"name": "郑州商学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14041",
+"name": "西安理工大学高科学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14042",
+"name": "西安科技大学高新学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14043",
+"name": "四川文化艺术学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14045",
+"name": "绵阳城市学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14046",
+"name": "福建农林大学金山学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14087",
+"name": "天津财经大学珠江学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14092",
+"name": "滇西科技师范学院",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14098",
+"name": "合肥师范学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14099",
+"name": "湖北第二师范学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14100",
+"name": "山东政法学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14172",
+"name": "海南科技职业大学",
+"province": "海南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14199",
+"name": "内蒙古大学创业学院",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14200",
+"name": "银川科技学院",
+"province": "宁夏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14201",
+"name": "北京第二外国语学院中瑞酒店管理学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14202",
+"name": "沧州交通学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14203",
+"name": "皖江工学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14207",
+"name": "上海财经大学浙江学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14223",
+"name": "贵州师范学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14225",
+"name": "河北东方学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14226",
+"name": "运城职业技术大学",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14262",
+"name": "西南交通大学希望学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14275",
+"name": "浙江外国语学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14276",
+"name": "齐鲁师范学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14277",
+"name": "山东青年政治学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14325",
+"name": "南方科技大学",
+"province": "广东",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "14327",
+"name": "青岛电影学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14333",
+"name": "郑州升达经贸管理学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14388",
+"name": "重庆第二师范学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14389",
+"name": "成都师范学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14390",
+"name": "陕西学前师范学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14410",
+"name": "四川电影电视学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14423",
+"name": "上海科技大学",
+"province": "上海",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "14430",
+"name": "中国科学院大学",
+"province": "北京",
+"tier": [
+"211",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "14432",
+"name": "河北中医药大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14434",
+"name": "山西传媒学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14435",
+"name": "营口理工学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14436",
+"name": "江苏第二师范学院",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14437",
+"name": "南昌师范学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14438",
+"name": "山东管理学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14439",
+"name": "山东农业工程学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14440",
+"name": "贵州理工学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14458",
+"name": "张家口学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14527",
+"name": "山西工程技术学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14531",
+"name": "内蒙古艺术学院",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14532",
+"name": "鄂尔多斯应用技术学院",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14535",
+"name": "浙江音乐学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14560",
+"name": "哈尔滨音乐学院",
+"province": "黑龙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14596",
+"name": "中国社会科学院大学",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14623",
+"name": "滇西应用技术大学",
+"province": "云南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14625",
+"name": "茅台学院",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14626",
+"name": "西湖大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14654",
+"name": "郑州西亚斯学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14655",
+"name": "深圳技术大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14682",
+"name": "安徽艺术学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14683",
+"name": "福建技术师范学院",
+"province": "福建",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14829",
+"name": "海南比勒费尔德应用科学大学",
+"province": "海南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14830",
+"name": "重庆中医药学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14831",
+"name": "郑州美术学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14878",
+"name": "康复大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14879",
+"name": "河南体育学院",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "14881",
+"name": "青海理工学院",
+"province": "青海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16201",
+"name": "山西工程科技职业大学",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16202",
+"name": "河北石油职业技术大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16203",
+"name": "河北科技工程职业技术大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16204",
+"name": "河北工业职业技术大学",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16205",
+"name": "广西农业职业技术大学",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16206",
+"name": "贵阳康养职业大学",
+"province": "贵州",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16207",
+"name": "浙江药科职业大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16208",
+"name": "兰州资源环境职业技术大学",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16209",
+"name": "兰州石化职业技术大学",
+"province": "甘肃",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16301",
+"name": "宁波诺丁汉大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16302",
+"name": "西交利物浦大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16404",
+"name": "上海纽约大学",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16405",
+"name": "温州肯恩大学",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16406",
+"name": "昆山杜克大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16409",
+"name": "深圳北理莫斯科大学",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "16410",
+"name": "广东以色列理工学院",
+"province": "广东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "18127",
+"name": "内蒙古科技大学包头师范学院",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "19001",
+"name": "北京大学医学部",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "19127",
+"name": "内蒙古科技大学包头医学院",
+"province": "内蒙古",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "19145",
+"name": "东北大学秦皇岛分校",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "19246",
+"name": "复旦大学医学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "19248",
+"name": "上海交通大学医学院",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "19335",
+"name": "浙江大学医学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "19422",
+"name": "山东大学威海分校",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "50869",
+"name": "广西职业师范学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "51189",
+"name": "山西能源学院",
+"province": "山西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "51285",
+"name": "江西飞行学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "51721",
+"name": "河北环境工程学院",
+"province": "河北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91002",
+"name": "国防科技大学",
+"province": "湖南",
+"tier": [
+"985",
+"双一流",
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": true
+},
+{
+"school_id": "91004",
+"name": "陆军工程大学",
+"province": "江苏",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91005",
+"name": "陆军步兵学院",
+"province": "江西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91006",
+"name": "陆军装甲兵学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91007",
+"name": "陆军炮兵防空兵学院",
+"province": "安徽",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91009",
+"name": "陆军特种作战学院",
+"province": "广西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91010",
+"name": "陆军边海防学院",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91011",
+"name": "陆军防化学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91012",
+"name": "陆军军医大学",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91013",
+"name": "陆军军事交通学院",
+"province": "天津",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91014",
+"name": "陆军勤务学院",
+"province": "重庆",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91016",
+"name": "海军工程大学",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91017",
+"name": "海军大连舰艇学院",
+"province": "辽宁",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91018",
+"name": "海军潜艇学院",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91019",
+"name": "海军航空大学",
+"province": "山东",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91020",
+"name": "海军军医大学",
+"province": "上海",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91024",
+"name": "空军工程大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91025",
+"name": "空军航空大学",
+"province": "吉林",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91026",
+"name": "空军预警学院",
+"province": "湖北",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91030",
+"name": "空军军医大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91034",
+"name": "火箭军工程大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91036",
+"name": "军事航天部队航天工程大学",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91037",
+"name": "网络空间部队信息工程大学",
+"province": "河南",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91039",
+"name": "武警工程大学",
+"province": "陕西",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91040",
+"name": "武警警官学院",
+"province": "四川",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91041",
+"name": "武警特种警察学院",
+"province": "北京",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+},
+{
+"school_id": "91044",
+"name": "武警海警学院",
+"province": "浙江",
+"tier": [
+"本科"
+],
+"nature": "公办",
+"has_grad_quota": false
+}
+]
