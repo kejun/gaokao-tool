@@ -4,6 +4,7 @@
  * L2: 选科要求分片（按省份懒加载，进院校详情时按需）
  */
 import Dexie from 'dexie'
+import { parseRequire } from './core'
 
 const db = new Dexie('gaokao-cache')
 db.version(1).stores({
@@ -61,7 +62,7 @@ export async function loadL2(province = '北京') {
     school_name: name,
     major_code: String(mcode),
     major,
-    require_subjects: require,
+    require_subjects: parseRequire(require),
     plan_count: null,
   }))
   return { majors, province }
@@ -82,13 +83,16 @@ export async function loadSubject2027() {
 }
 
 /** 构建按院校 code 索引的选科要求（供院校详情页使用） */
+const subjIdxCache = new Map()
 export async function buildSchoolSubjectIndex(province) {
+  if (subjIdxCache.has(province)) return subjIdxCache.get(province)
   const rows = await loadSubjectProvince(province)
   const idx = new Map()
   for (const [code, name, mcode, major, req] of rows) {
     if (!idx.has(code)) idx.set(code, [])
-    idx.get(code).push({ school_code: code, school_name: name, major_code: mcode, major, require: req })
+    idx.get(code).push({ school_code: code, school_name: name, major_code: mcode, major, require: parseRequire(req) })
   }
+  subjIdxCache.set(province, idx)
   return idx
 }
 

@@ -86,10 +86,10 @@ function setCat(item, cat) {
       暂无收藏。前往院校列表，把心仪院校的专业加入志愿表。
     </div>
 
-    <section v-for="(grp, key) in [['冲','chong','rose'],['稳','wen','emerald'],['保','bao','sky']]" :key="key[1]">
-      <h2 class="font-semibold mb-2 text-slate-700">{{ key[0] }}（{{ fav.items.filter(i => (i.category || catOf(i)) === key[1]).length }}）</h2>
+    <section v-for="grp in [['冲','chong','rose'],['稳','wen','emerald'],['保','bao','sky']]" :key="grp[1]">
+      <h2 class="font-semibold mb-2 text-slate-700">{{ grp[0] }}（{{ fav.items.filter(i => (i.category || catOf(i)) === grp[1]).length }}）</h2>
       <div class="space-y-2">
-        <div v-for="it in fav.items.filter(i => (i.category || catOf(i)) === key[1])" :key="it.id"
+        <div v-for="it in fav.items.filter(i => (i.category || catOf(i)) === grp[1])" :key="it.id"
           class="bg-white border rounded-lg p-3 flex items-center gap-3">
           <div class="flex-1">
             <p class="font-semibold text-sm">{{ schoolOf(it.school_id)?.name || it.school_id }}</p>

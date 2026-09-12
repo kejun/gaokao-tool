@@ -2,7 +2,7 @@
 import { ref, computed, onMounted } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { useScoreStore } from '../stores/score'
-import { loadL1, loadL2, loadSubject2027 } from '../lib/data'
+import { loadL1, buildSchoolSubjectIndex, loadSubject2027 } from '../lib/data'
 import { isEligible } from '../lib/core'
 import { useFavoriteStore } from '../stores/favorites'
 import * as echarts from 'echarts'
@@ -25,7 +25,6 @@ onMounted(async () => {
   try {
     await store.ensure()
     const l1 = await loadL1()
-    const l2 = await loadL2()
     const s27 = await loadSubject2027()
     subject2027.value = s27
 
@@ -36,16 +35,14 @@ onMounted(async () => {
     school.value = s
     admissions.value = a
 
-    // 专业：按组 + 选科要求
-    const groupMap = new Map()
-    for (const m of l2.majors) {
-      if (m.school_id !== id) continue
-      if (!groupMap.has(m.group_code)) groupMap.set(m.group_code, [])
-      groupMap.get(m.group_code).push(m)
-    }
-    majors.value = [...groupMap.entries()].map(([code, list]) => ({
-      group_code: code,
-      majors: list,
+    // 专业：按院校索引 O(1) 查询 + 选科要求（2027 通用版选科要求为专业级，无专业组概念）
+    const idx = await buildSchoolSubjectIndex('北京')
+    const list = idx.get(String(id)) || []
+    majors.value = list.map(m => ({
+      major_code: String(m.major_code),
+      major: m.major,
+      require_subjects: m.require,
+      plan_count: null,
     }))
 
     // 趋势图
@@ -150,15 +147,15 @@ function tierBadges(t) {
       <!-- 可报专业表 F3 + 选科硬过滤 -->
       <section class="space-y-4">
         <h2 class="font-bold text-lg">可报专业（选科 {{ selectedSubjects.join('+') }}）</h2>
+        <p v-if="majors.length" class="text-xs text-slate-500">共 {{ majors.length }} 个专业 · 灰色为选科不满足、不可报考</p>
 
-        <div v-for="grp in majors" :key="grp.group_code" class="bg-white rounded-xl border p-4 space-y-2">
-          <h3 class="text-sm font-semibold text-slate-700">专业组 {{ grp.group_code }}</h3>
+        <div class="bg-white rounded-xl border p-4 space-y-2">
           <table class="w-full text-sm">
             <thead><tr class="text-left text-xs text-slate-400 border-b">
               <th class="py-1.5">专业</th><th>选科要求</th><th>计划数</th><th>2027 变化</th><th class="text-right">操作</th>
             </tr></thead>
             <tbody>
-              <tr v-for="m in grp.majors" :key="m.major"
+              <tr v-for="m in majors" :key="m.major"
                   :class="{ 'opacity-40': !isEligible(m.require_subjects, selectedSubjects) }">
                 <td class="py-2">
                   {{ m.major }}
@@ -174,14 +171,14 @@ function tierBadges(t) {
                   <span v-else class="text-slate-300">—</span>
                 </td>
                 <td class="text-right">
-                  <button @click="toggleFav(m, grp.group_code)"
+                  <button @click="toggleFav(m, null)"
                     class="text-xs px-2 py-1 rounded border"
                     :class="isFav(m.major) ? 'bg-blue-600 text-white border-blue-600' : 'bg-white text-slate-500 border-slate-300'">
                     {{ isFav(m.major) ? '已收藏' : '收藏' }}
                   </button>
                 </td>
               </tr>
-              <tr v-if="!grp.majors.length"><td colspan="5" class="text-slate-400 text-xs py-2">无数据</td></tr>
+              <tr v-if="!majors.length"><td colspan="5" class="text-slate-400 text-xs py-2">暂无该校正版选科数据（数据持续补充中）</td></tr>
             </tbody>
           </table>
           <p class="text-[11px] text-slate-400">不可报原因：选科不满足要求（{{ selectedSubjects.join('+') }} ⊆ {{ '专业要求' }}）。调剂仅限同专业组内，不跨组不跨校。</p>

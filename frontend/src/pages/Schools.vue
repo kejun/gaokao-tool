@@ -120,18 +120,18 @@ function toggleCompare(x) {
 
     <!-- 三色分段 -->
     <template v-if="!loading">
-      <section v-for="(grp, key) in [['冲','chong','bg-rose-50 border-rose-200 text-rose-700'],['稳','wen','bg-emerald-50 border-emerald-200 text-emerald-700'],['保','bao','bg-sky-50 border-sky-200 text-sky-700']]" :key="key[1]">
+      <section v-for="grp in [['冲','chong','bg-rose-50 border-rose-200 text-rose-700'],['稳','wen','bg-emerald-50 border-emerald-200 text-emerald-700'],['保','bao','bg-sky-50 border-sky-200 text-sky-700']]" :key="grp[1]">
         <header class="flex items-center gap-2 mb-2">
-          <span class="font-bold rounded px-2 py-0.5 border text-xs" :class="key[2]">
-            {{ key[0] }}（{{ grouped[key[1]].length }}）
+          <span class="font-bold rounded px-2 py-0.5 border text-xs" :class="grp[2]">
+            {{ grp[0] }}（{{ grouped[grp[1]].length }}）
           </span>
-          <span v-if="key[1]==='chong'" class="text-[11px] text-slate-400">本人位次优于该校历史最优 → 可冲</span>
-          <span v-else-if="key[1]==='wen'" class="text-[11px] text-slate-400">位次落在区间内 → 较稳</span>
+          <span v-if="grp[1]==='chong'" class="text-[11px] text-slate-400">本人位次优于该校历史最优 → 可冲</span>
+          <span v-else-if="grp[1]==='wen'" class="text-[11px] text-slate-400">位次落在区间内 → 较稳</span>
           <span v-else class="text-[11px] text-slate-400">位次劣于历史最差 → 保底</span>
         </header>
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
           <router-link
-            v-for="x in grouped[key[1]]" :key="x.school.school_id"
+            v-for="x in grouped[grp[1]]" :key="x.school.school_id"
             :to="`/school/${x.school.school_id}`"
             class="bg-white border rounded-lg p-3 hover:shadow-md transition space-y-1 block"
           >
