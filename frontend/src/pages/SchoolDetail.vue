@@ -18,8 +18,15 @@ const majors = ref([])
 const subject2027 = ref({})
 const loading = ref(true)
 const error = ref('')
+const website = ref(null)
 
 const selectedSubjects = computed(() => store.subjects)
+
+// 专业外链：搜索该专业在该校的招生/培养信息（阳光高考 / 百度）
+function majorLink(m) {
+  const q = encodeURIComponent(`${school.value?.name} ${m.major} 招生`)
+  return `https://www.baidu.com/s?wd=${q}`
+}
 
 onMounted(async () => {
   try {
@@ -34,6 +41,8 @@ onMounted(async () => {
     if (!s) throw new Error('院校不存在')
     school.value = s
     admissions.value = a
+    const w = (l1.websites || []).find(x => x.name === s.name)
+    website.value = w ? w.url : null
 
     // 专业：按院校索引 O(1) 查询 + 选科要求（2027 通用版选科要求为专业级，无专业组概念）
     const idx = await buildSchoolSubjectIndex('北京')
@@ -122,7 +131,10 @@ function tierBadges(t) {
         <div class="flex items-start justify-between">
           <div>
             <h1 class="text-2xl font-bold text-slate-800">{{ school.name }}</h1>
-            <p class="text-sm text-slate-500">{{ school.province }} · {{ school.city }} · {{ school.nature }}</p>
+            <p class="text-sm text-slate-500">{{ school.province }} · {{ school.city }} · {{ school.nature }}
+              <a v-if="website" :href="website" target="_blank" rel="noopener"
+                 class="ml-2 text-blue-600 hover:underline">官网 ↗</a>
+            </p>
           </div>
           <div class="flex gap-1 flex-wrap justify-end">
             <span v-for="t in tierBadges(school.tier)" :key="t" class="text-xs px-2 py-0.5 rounded bg-indigo-100 text-indigo-700">{{ t }}</span>
@@ -159,6 +171,7 @@ function tierBadges(t) {
                   :class="{ 'opacity-40': !isEligible(m.require_subjects, selectedSubjects) }">
                 <td class="py-2">
                   {{ m.major }}
+                  <a :href="majorLink(m)" target="_blank" rel="noopener" class="ml-1 text-[10px] text-blue-500 hover:underline">外链 ↗</a>
                   <span v-if="!isEligible(m.require_subjects, selectedSubjects)" class="text-[10px] text-red-500">不可报</span>
                 </td>
                 <td class="text-xs">

@@ -35,12 +35,13 @@ let l1 = null
 export async function loadL1() {
   if (l1) return l1
   const base = import.meta.env.BASE_URL + 'data/'
-  const [scoreRank, admissions, schools] = await Promise.all([
+  const [scoreRank, admissions, schools, websites] = await Promise.all([
     loadWithCache('score_rank', base + 'score_rank.json'),
     loadWithCache('admissions_school', base + 'admissions_school.json'),
     loadWithCache('schools', base + 'schools.json'),
+    loadWithCache('school_websites', base + 'school_websites.json'),
   ])
-  l1 = { scoreRank, admissions, schools }
+  l1 = { scoreRank, admissions, schools, websites }
   return l1
 }
 

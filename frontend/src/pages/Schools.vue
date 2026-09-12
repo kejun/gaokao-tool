@@ -61,7 +61,10 @@ const grouped = computed(() => {
     const vals = Object.values(yrs).map(y => (y && typeof y.min_score === 'number') ? y.min_score : Infinity)
     return vals.some(v => v !== Infinity) ? Math.min(...vals) : null
   }
+  // 默认排序：北京院校优先（同城在前），其余按分数降序
+  const isBj = (x) => x.school.province === '北京'
   const byScore = (arr) => arr.sort((a, b) => {
+    if (isBj(a) !== isBj(b)) return isBj(a) ? -1 : 1
     const minA = minScoreOfYears(a.school.years) ?? 0
     const minB = minScoreOfYears(b.school.years) ?? 0
     return minB - minA

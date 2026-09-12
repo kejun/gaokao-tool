@@ -1,0 +1,566 @@
+[
+ {
+  "name": "北京大学",
+  "url": "https://www.pku.edu.cn"
+ },
+ {
+  "name": "清华大学",
+  "url": "https://www.tsinghua.edu.cn"
+ },
+ {
+  "name": "中国人民大学",
+  "url": "https://www.ruc.edu.cn"
+ },
+ {
+  "name": "北京航空航天大学",
+  "url": "https://www.buaa.edu.cn"
+ },
+ {
+  "name": "北京理工大学",
+  "url": "https://www.bit.edu.cn"
+ },
+ {
+  "name": "中国农业大学",
+  "url": "https://www.cau.edu.cn"
+ },
+ {
+  "name": "北京师范大学",
+  "url": "https://www.bnu.edu.cn"
+ },
+ {
+  "name": "中央民族大学",
+  "url": "https://www.muc.edu.cn"
+ },
+ {
+  "name": "北京交通大学",
+  "url": "https://www.bjtu.edu.cn"
+ },
+ {
+  "name": "北京工业大学",
+  "url": "https://www.bjut.edu.cn"
+ },
+ {
+  "name": "北京科技大学",
+  "url": "https://www.ustb.edu.cn"
+ },
+ {
+  "name": "北京化工大学",
+  "url": "https://www.buct.edu.cn"
+ },
+ {
+  "name": "北京邮电大学",
+  "url": "https://www.bupt.edu.cn"
+ },
+ {
+  "name": "北京林业大学",
+  "url": "https://www.bjfu.edu.cn"
+ },
+ {
+  "name": "北京中医药大学",
+  "url": "https://www.bucm.edu.cn"
+ },
+ {
+  "name": "北京外国语大学",
+  "url": "https://www.bfsu.edu.cn"
+ },
+ {
+  "name": "中国传媒大学",
+  "url": "https://www.cuc.edu.cn"
+ },
+ {
+  "name": "中央财经大学",
+  "url": "https://www.cufe.edu.cn"
+ },
+ {
+  "name": "对外经济贸易大学",
+  "url": "https://www.uibe.edu.cn"
+ },
+ {
+  "name": "北京体育大学",
+  "url": "https://www.bsu.edu.cn"
+ },
+ {
+  "name": "中央音乐学院",
+  "url": "https://www.ccom.edu.cn"
+ },
+ {
+  "name": "中国政法大学",
+  "url": "https://www.cupl.edu.cn"
+ },
+ {
+  "name": "华北电力大学",
+  "url": "https://www.ncepu.edu.cn"
+ },
+ {
+  "name": "中国矿业大学（北京）",
+  "url": "https://www.cumtb.edu.cn"
+ },
+ {
+  "name": "中国石油大学（北京）",
+  "url": "https://www.cup.edu.cn"
+ },
+ {
+  "name": "中国地质大学（北京）",
+  "url": "https://www.cugb.edu.cn"
+ },
+ {
+  "name": "首都师范大学",
+  "url": "https://www.cnu.edu.cn"
+ },
+ {
+  "name": "首都医科大学",
+  "url": "https://www.ccmu.edu.cn"
+ },
+ {
+  "name": "首都经济贸易大学",
+  "url": "https://www.cueb.edu.cn"
+ },
+ {
+  "name": "北京工商大学",
+  "url": "https://www.btbu.edu.cn"
+ },
+ {
+  "name": "北京建筑大学",
+  "url": "https://www.bucea.edu.cn"
+ },
+ {
+  "name": "北京信息科技大学",
+  "url": "https://www.bistu.edu.cn"
+ },
+ {
+  "name": "北方工业大学",
+  "url": "https://www.ncut.edu.cn"
+ },
+ {
+  "name": "北京联合大学",
+  "url": "https://www.buu.edu.cn"
+ },
+ {
+  "name": "北京印刷学院",
+  "url": "https://www.bigc.edu.cn"
+ },
+ {
+  "name": "北京服装学院",
+  "url": "https://www.bift.edu.cn"
+ },
+ {
+  "name": "北京物资学院",
+  "url": "https://www.bwu.edu.cn"
+ },
+ {
+  "name": "北京石油化工学院",
+  "url": "https://www.bipt.edu.cn"
+ },
+ {
+  "name": "北京农学院",
+  "url": "https://www.bua.edu.cn"
+ },
+ {
+  "name": "北京第二外国语学院",
+  "url": "https://www.bisu.edu.cn"
+ },
+ {
+  "name": "北京语言大学",
+  "url": "https://www.blcu.edu.cn"
+ },
+ {
+  "name": "外交学院",
+  "url": "https://www.cfau.edu.cn"
+ },
+ {
+  "name": "国际关系学院",
+  "url": "https://www.uir.cn"
+ },
+ {
+  "name": "北京电子科技学院",
+  "url": "https://www.besti.edu.cn"
+ },
+ {
+  "name": "中国劳动关系学院",
+  "url": "https://www.ciir.edu.cn"
+ },
+ {
+  "name": "中华女子学院",
+  "url": "https://www.cwu.edu.cn"
+ },
+ {
+  "name": "北京警察学院",
+  "url": "https://www.bjpc.edu.cn"
+ },
+ {
+  "name": "首都体育学院",
+  "url": "https://www.cupes.edu.cn"
+ },
+ {
+  "name": "中央戏剧学院",
+  "url": "https://www.zhongxi.cn"
+ },
+ {
+  "name": "中央美术学院",
+  "url": "https://www.cafa.edu.cn"
+ },
+ {
+  "name": "北京电影学院",
+  "url": "https://www.bfa.edu.cn"
+ },
+ {
+  "name": "北京舞蹈学院",
+  "url": "https://www.bda.edu.cn"
+ },
+ {
+  "name": "中国音乐学院",
+  "url": "https://www.ccmusic.edu.cn"
+ },
+ {
+  "name": "南开大学",
+  "url": "https://www.nankai.edu.cn"
+ },
+ {
+  "name": "天津大学",
+  "url": "https://www.tju.edu.cn"
+ },
+ {
+  "name": "天津医科大学",
+  "url": "https://www.tmu.edu.cn"
+ },
+ {
+  "name": "河北工业大学",
+  "url": "https://www.hebut.edu.cn"
+ },
+ {
+  "name": "太原理工大学",
+  "url": "https://www.tyut.edu.cn"
+ },
+ {
+  "name": "内蒙古大学",
+  "url": "https://www.imu.edu.cn"
+ },
+ {
+  "name": "辽宁大学",
+  "url": "https://www.lnu.edu.cn"
+ },
+ {
+  "name": "大连理工大学",
+  "url": "https://www.dlut.edu.cn"
+ },
+ {
+  "name": "东北大学",
+  "url": "https://www.neu.edu.cn"
+ },
+ {
+  "name": "大连海事大学",
+  "url": "https://www.dlmu.edu.cn"
+ },
+ {
+  "name": "吉林大学",
+  "url": "https://www.jlu.edu.cn"
+ },
+ {
+  "name": "延边大学",
+  "url": "https://www.ybu.edu.cn"
+ },
+ {
+  "name": "东北师范大学",
+  "url": "https://www.nenu.edu.cn"
+ },
+ {
+  "name": "哈尔滨工业大学",
+  "url": "https://www.hit.edu.cn"
+ },
+ {
+  "name": "哈尔滨工程大学",
+  "url": "https://www.hrbeu.edu.cn"
+ },
+ {
+  "name": "东北林业大学",
+  "url": "https://www.nefu.edu.cn"
+ },
+ {
+  "name": "复旦大学",
+  "url": "https://www.fudan.edu.cn"
+ },
+ {
+  "name": "同济大学",
+  "url": "https://www.tongji.edu.cn"
+ },
+ {
+  "name": "上海交通大学",
+  "url": "https://www.sjtu.edu.cn"
+ },
+ {
+  "name": "华东师范大学",
+  "url": "https://www.ecnu.edu.cn"
+ },
+ {
+  "name": "华东理工大学",
+  "url": "https://www.ecust.edu.cn"
+ },
+ {
+  "name": "东华大学",
+  "url": "https://www.dhu.edu.cn"
+ },
+ {
+  "name": "上海财经大学",
+  "url": "https://www.sufe.edu.cn"
+ },
+ {
+  "name": "上海大学",
+  "url": "https://www.shu.edu.cn"
+ },
+ {
+  "name": "上海外国语大学",
+  "url": "https://www.shisu.edu.cn"
+ },
+ {
+  "name": "南京大学",
+  "url": "https://www.nju.edu.cn"
+ },
+ {
+  "name": "东南大学",
+  "url": "https://www.seu.edu.cn"
+ },
+ {
+  "name": "南京航空航天大学",
+  "url": "https://www.nuaa.edu.cn"
+ },
+ {
+  "name": "南京理工大学",
+  "url": "https://www.njust.edu.cn"
+ },
+ {
+  "name": "中国矿业大学",
+  "url": "https://www.cumt.edu.cn"
+ },
+ {
+  "name": "河海大学",
+  "url": "https://www.hhu.edu.cn"
+ },
+ {
+  "name": "江南大学",
+  "url": "https://www.jiangnan.edu.cn"
+ },
+ {
+  "name": "南京农业大学",
+  "url": "https://www.njau.edu.cn"
+ },
+ {
+  "name": "中国药科大学",
+  "url": "https://www.cpu.edu.cn"
+ },
+ {
+  "name": "南京师范大学",
+  "url": "https://www.njnu.edu.cn"
+ },
+ {
+  "name": "苏州大学",
+  "url": "https://www.suda.edu.cn"
+ },
+ {
+  "name": "南京邮电大学",
+  "url": "https://www.njupt.edu.cn"
+ },
+ {
+  "name": "南京信息工程大学",
+  "url": "https://www.nuist.edu.cn"
+ },
+ {
+  "name": "南京林业大学",
+  "url": "https://www.njfu.edu.cn"
+ },
+ {
+  "name": "南京医科大学",
+  "url": "https://www.njmu.edu.cn"
+ },
+ {
+  "name": "浙江大学",
+  "url": "https://www.zju.edu.cn"
+ },
+ {
+  "name": "中国科学技术大学",
+  "url": "https://www.ustc.edu.cn"
+ },
+ {
+  "name": "安徽大学",
+  "url": "https://www.ahu.edu.cn"
+ },
+ {
+  "name": "合肥工业大学",
+  "url": "https://www.hfut.edu.cn"
+ },
+ {
+  "name": "厦门大学",
+  "url": "https://www.xmu.edu.cn"
+ },
+ {
+  "name": "福州大学",
+  "url": "https://www.fzu.edu.cn"
+ },
+ {
+  "name": "南昌大学",
+  "url": "https://www.ncu.edu.cn"
+ },
+ {
+  "name": "山东大学",
+  "url": "https://www.sdu.edu.cn"
+ },
+ {
+  "name": "中国海洋大学",
+  "url": "https://www.ouc.edu.cn"
+ },
+ {
+  "name": "郑州大学",
+  "url": "https://www.zzu.edu.cn"
+ },
+ {
+  "name": "武汉大学",
+  "url": "https://www.whu.edu.cn"
+ },
+ {
+  "name": "华中科技大学",
+  "url": "https://www.hust.edu.cn"
+ },
+ {
+  "name": "武汉理工大学",
+  "url": "https://www.whut.edu.cn"
+ },
+ {
+  "name": "华中师范大学",
+  "url": "https://www.ccnu.edu.cn"
+ },
+ {
+  "name": "华中农业大学",
+  "url": "https://www.hzau.edu.cn"
+ },
+ {
+  "name": "中南财经政法大学",
+  "url": "https://www.zuel.edu.cn"
+ },
+ {
+  "name": "中国地质大学（武汉）",
+  "url": "https://www.cug.edu.cn"
+ },
+ {
+  "name": "湖南大学",
+  "url": "https://www.hnu.edu.cn"
+ },
+ {
+  "name": "中南大学",
+  "url": "https://www.csu.edu.cn"
+ },
+ {
+  "name": "湖南师范大学",
+  "url": "https://www.hunnu.edu.cn"
+ },
+ {
+  "name": "中山大学",
+  "url": "https://www.sysu.edu.cn"
+ },
+ {
+  "name": "华南理工大学",
+  "url": "https://www.scut.edu.cn"
+ },
+ {
+  "name": "暨南大学",
+  "url": "https://www.jnu.edu.cn"
+ },
+ {
+  "name": "华南师范大学",
+  "url": "https://www.scnu.edu.cn"
+ },
+ {
+  "name": "广西大学",
+  "url": "https://www.gxu.edu.cn"
+ },
+ {
+  "name": "海南大学",
+  "url": "https://www.hainanu.edu.cn"
+ },
+ {
+  "name": "四川大学",
+  "url": "https://www.scu.edu.cn"
+ },
+ {
+  "name": "重庆大学",
+  "url": "https://www.cqu.edu.cn"
+ },
+ {
+  "name": "西南交通大学",
+  "url": "https://www.swjtu.edu.cn"
+ },
+ {
+  "name": "电子科技大学",
+  "url": "https://www.uestc.edu.cn"
+ },
+ {
+  "name": "西南大学",
+  "url": "https://www.swu.edu.cn"
+ },
+ {
+  "name": "西南财经大学",
+  "url": "https://www.swufe.edu.cn"
+ },
+ {
+  "name": "四川农业大学",
+  "url": "https://www.sicau.edu.cn"
+ },
+ {
+  "name": "贵州大学",
+  "url": "https://www.gzu.edu.cn"
+ },
+ {
+  "name": "云南大学",
+  "url": "https://www.ynu.edu.cn"
+ },
+ {
+  "name": "西北大学",
+  "url": "https://www.nwu.edu.cn"
+ },
+ {
+  "name": "西安交通大学",
+  "url": "https://www.xjtu.edu.cn"
+ },
+ {
+  "name": "西北工业大学",
+  "url": "https://www.nwpu.edu.cn"
+ },
+ {
+  "name": "西安电子科技大学",
+  "url": "https://www.xidian.edu.cn"
+ },
+ {
+  "name": "长安大学",
+  "url": "https://www.chd.edu.cn"
+ },
+ {
+  "name": "陕西师范大学",
+  "url": "https://www.snnu.edu.cn"
+ },
+ {
+  "name": "西北农林科技大学",
+  "url": "https://www.nwsuaf.edu.cn"
+ },
+ {
+  "name": "兰州大学",
+  "url": "https://www.lzu.edu.cn"
+ },
+ {
+  "name": "青海大学",
+  "url": "https://www.qhu.edu.cn"
+ },
+ {
+  "name": "宁夏大学",
+  "url": "https://www.nxu.edu.cn"
+ },
+ {
+  "name": "新疆大学",
+  "url": "https://www.xju.edu.cn"
+ },
+ {
+  "name": "石河子大学",
+  "url": "https://www.shzu.edu.cn"
+ },
+ {
+  "name": "西藏大学",
+  "url": "https://www.utibet.edu.cn"
+ }
+]
