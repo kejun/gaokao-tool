@@ -35,10 +35,10 @@ onMounted(async () => {
     const s27 = await loadSubject2027()
     subject2027.value = s27
 
-    const id = route.params.id
-    const s = l1.schools.find(x => x.school_id === id)
-    const a = l1.admissions.find(x => x.school_id === id)
-    if (!s) throw new Error('院校不存在')
+    const id = decodeURIComponent(route.params.id)
+    const a = l1.admissions.find(x => x.school_id === id || x.name === id)
+    if (!a) throw new Error('院校不存在')
+    const s = l1.schools.find(x => x.name === a.name) || { school_id: id, name: a.name, tier: [], nature: '—', province: null, city: null }
     school.value = s
     admissions.value = a
     const w = (l1.websites || []).find(x => x.name === s.name)
@@ -46,7 +46,7 @@ onMounted(async () => {
 
     // 专业：按院校索引 O(1) 查询 + 选科要求（2027 通用版选科要求为专业级，无专业组概念）
     const idx = await buildSchoolSubjectIndex('北京')
-    const list = idx.get(String(id)) || []
+    const list = idx.get(String(a.school_id || a.name)) || []
     majors.value = list.map(m => ({
       major_code: String(m.major_code),
       major: m.major,

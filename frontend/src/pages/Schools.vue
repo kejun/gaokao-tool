@@ -22,14 +22,20 @@ onMounted(async () => {
   try {
     await store.ensure()
     const l1 = await loadL1()
-    const admMap = new Map(l1.admissions.map(a => [a.name, a]))
-    const all = l1.schools
-      .map(s => {
-        const a = admMap.get(s.name)
-        if (!a) return null
+    // 以 admissions 为主表（在京招生院校）+ name 兜底元数据；同名不同年合并 years
+    const nameMap = new Map(l1.schools.map(s => [s.name, s]))
+    const admByName = new Map()
+    for (const a of l1.admissions) {
+      const key = a.school_id || a.name
+      if (!admByName.has(key)) admByName.set(key, { ...a, years: { ...(a.years || {}) } })
+      else Object.assign(admByName.get(key).years, a.years)
+    }
+    const all = [...admByName.values()]
+      .map(a => {
+        const s = nameMap.get(a.name) || {}
         const range = schoolRankRange(a.years)
         if (!range) return null
-        return { school: { ...s, years: a.years }, range }
+        return { school: { ...s, school_id: a.school_id || a.name, name: a.name, years: a.years }, range }
       })
       .filter(Boolean)
     schools.value = all
@@ -135,7 +141,7 @@ function toggleCompare(x) {
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
           <router-link
             v-for="x in grouped[grp[1]]" :key="x.school.school_id"
-            :to="`/school/${x.school.school_id}`"
+            :to="`/school/${encodeURIComponent(x.school.school_id)}`"
             class="bg-white border rounded-lg p-3 hover:shadow-md transition space-y-1 block"
           >
             <div class="flex items-center justify-between">
